@@ -10,3 +10,4 @@ turtle.left(90)
 turtle.forward(50)
 
 #квадрат
+#nv fnkv dffn
